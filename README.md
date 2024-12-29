@@ -7,7 +7,7 @@ docker compose up --build - запускает контейнеры и соби�
 
 [Репозиторий](https://github.com/raulgasanov/nodejs-docker-and-compose) проекта
 
-* IP адрес 158.160.147.234
+* IP адрес 89.169.175.187
 * Frontend https://buy.nomorepartiesco.ru
 * Backend https://api.buy.nomorepartiesco.ru
 
